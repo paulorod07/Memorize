@@ -13,6 +13,7 @@
 		E55D59462609A27800A78BC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E55D59452609A27800A78BC6 /* Assets.xcassets */; };
 		E55D59492609A27800A78BC6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E55D59482609A27800A78BC6 /* Preview Assets.xcassets */; };
 		E55D594C2609A27800A78BC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E55D594A2609A27800A78BC6 /* LaunchScreen.storyboard */; };
+		E59A38402619183200B16B47 /* MemorizeGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59A383F2619183200B16B47 /* MemorizeGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E55D59482609A27800A78BC6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E55D594B2609A27800A78BC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E55D594D2609A27800A78BC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E59A383F2619183200B16B47 /* MemorizeGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E55D593F2609A27600A78BC6 /* AppDelegate.swift */,
 				E55D59412609A27600A78BC6 /* SceneDelegate.swift */,
 				E55D59432609A27600A78BC6 /* ContentView.swift */,
+				E59A383F2619183200B16B47 /* MemorizeGame.swift */,
 				E55D59452609A27800A78BC6 /* Assets.xcassets */,
 				E55D594A2609A27800A78BC6 /* LaunchScreen.storyboard */,
 				E55D594D2609A27800A78BC6 /* Info.plist */,
@@ -149,6 +152,7 @@
 				E55D59402609A27600A78BC6 /* AppDelegate.swift in Sources */,
 				E55D59422609A27600A78BC6 /* SceneDelegate.swift in Sources */,
 				E55D59442609A27600A78BC6 /* ContentView.swift in Sources */,
+				E59A38402619183200B16B47 /* MemorizeGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
